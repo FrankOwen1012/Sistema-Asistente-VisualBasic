@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="AplicacionPrueba.My.MySettings.CadenaConexion" connectionString="Data Source = VARSIST04 \ MSSQLSERVER2012;Initial Catalog=BD_Pruebas;Integrated Security=True "
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+</configuration>
